@@ -103,3 +103,8 @@ Strangler pattern -
 
 ![bit by bit](/assets/images/strangler.jpeg)
 
+
+
+
+## transformation example
+![bit by bit](/assets/images/arch.jpeg)
