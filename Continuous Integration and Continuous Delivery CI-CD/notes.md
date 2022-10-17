@@ -37,7 +37,23 @@ same environment every time
 
 written in yaml
 
+#### the old toools
+Terraform
+Ansible
+Chef
+Puppet - declarative 
+
+#### the new tools
 
 
+CI consists of the Plan, Code, Build, and Test phases. 
 
+CD consists of the Release, Deploy, and Operate phases. 
+
+# Continuous Integration
+
+## main benefits
+
+
+# Social Coding
 
