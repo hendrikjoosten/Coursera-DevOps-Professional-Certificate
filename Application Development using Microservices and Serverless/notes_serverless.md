@@ -13,4 +13,3 @@ Infrastructure management is invisible for end users with serverless computing. 
 serverless architectures remove the need for infrastructure management and are reliable, because cloud providers ensure fault-tolerance. You also learned that serverless is well-suited for spiky workloads that can afford some latency, but that long-running applications are better run elsewhere. Finally, you learned that serverless can lead to vendor lock-in and doesn’t always support every programming language.
 
 
-
