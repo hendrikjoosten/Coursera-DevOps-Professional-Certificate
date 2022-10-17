@@ -34,7 +34,7 @@ This course is about more than facts and processes. It is about working collabor
 
 Developed and taught by an experienced Agile practitioner, the course includes hands-on practice through realistic scenario-based labs using GitHub and ZenHub.
 
-COURSE 4: Hands-on Introduction to Linux Commands and Shell Scripting
+## COURSE 4: Hands-on Introduction to Linux Commands and Shell Scripting
 
 This course provides a practical introduction to Linux and commonly used Linux / UNIX shell commands.  It teaches you the basics of Bash shell scripting to automate a variety of tasks. The course includes both video-based lectures as well as hands-on labs to practice and apply what you learn. You will have no-charge access to a virtual Linux server that you can access through your web browser, so you don't need to download and install anything to perform the labs.
 
