@@ -191,4 +191,22 @@ Tools within your CD pipeline should handle scanning and deployment tasks
 
 # Tekton
 
+The conceptual building blocks of Tekton are events, triggers, pipelines, tasks, and steps. 
 
+The physical building blocks of Tekton are Kubernetes custom resource definitions (CRDs). 
+
+You can create Tekton pipelines by referencing tasks and passing in required parameters. 
+
+EventListeners listen for external events, TriggerBindings respond to those events and bind parameters from them, and TriggerTemplates create PipelineRuns that pass the parameters to the pipeline. 
+
+The Tekton Catalog, or Tekton Hub, contains reusable tasks for your CI/CD pipelines. 
+
+The PipelineRun must map the workspace to a PersistentVolumeClaim. 
+
+You can use existing shell scripts within tasks and define environment variables to pass configuration information into tasks. 
+
+You can use Tekton Hub or Tekton CLI to find build tasks for your CI/CD pipelines.
+
+To run a task after parallel tasks, you must specify the parallel tasks in the runAfter field.
+
+You can deploy applications to an environment using commands or YAML manifests.
