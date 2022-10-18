@@ -1,6 +1,6 @@
 # List and description of completed courses
 
-## COURSE 1: Introduction to DevOps
+## COURSE 01: Introduction to DevOps
 
 DevOps skills are in demand! DevOps skills are expected to be one of the fastest-growing skills in the workforce. This course can be a first step in obtaining those skills.
 
@@ -12,7 +12,7 @@ By thinking from a DevOps perspective, you will be able to build better products
 
 You will have an opportunity to explore the concepts of infrastructure for Continuous Integration and Continuous Delivery. You will be able to use actionable measures that apply directly to decision-making and will ultimately result in continuous improvement. This course is designed for those new to DevOps as well as those looking to increase their current knowledge of DevOps.
 
-## COURSE 2: Introduction to Cloud Computing
+## COURSE 02: Introduction to Cloud Computing
 
 This course introduces you to the core concepts of cloud computing. You gain the foundational knowledge required for understanding cloud computing from a business perspective as also for becoming a cloud practitioner. You understand the definition and essential characteristics of cloud computing, its history, the business case for cloud computing, and emerging technology usecases enabled by cloud. We introduce you to some of the prominent service providers of our times (e.g. AWS, Google, IBM, Microsoft, etc.) the services they offer, and look at some case studies of cloud computing across industry verticals.
 
@@ -22,7 +22,7 @@ Even though this course does not require any prior cloud computing or programmin
 
 This course is suitable for a large variety of audiences - whether you are an executive / manager / student who wants to become familiar with cloud computing terminology and concepts, or someone who wants foundational  grounding in cloud computing to start a career in this field or become a cloud practitioner - such as a cloud engineer, developer, analyst, etc.
 
-## COURSE 3: Introduction to Agile Development and Scrum
+## COURSE 03: Introduction to Agile Development and Scrum
 
 After successfully completing this course, you will be able to embrace the Agile concepts of adaptive planning, iterative development, and continuous improvement - resulting in early deliveries and value to customers. This course will benefit anyone who wants to get started with working the Agile way. It is particularly suitable for IT practitioners such as software developers, development managers, project managers, product managers, and executives.
 
@@ -34,7 +34,7 @@ This course is about more than facts and processes. It is about working collabor
 
 Developed and taught by an experienced Agile practitioner, the course includes hands-on practice through realistic scenario-based labs using GitHub and ZenHub.
 
-## COURSE 4: Hands-on Introduction to Linux Commands and Shell Scripting
+## COURSE 04: Hands-on Introduction to Linux Commands and Shell Scripting
 
 This course provides a practical introduction to Linux and commonly used Linux / UNIX shell commands.  It teaches you the basics of Bash shell scripting to automate a variety of tasks. The course includes both video-based lectures as well as hands-on labs to practice and apply what you learn. You will have no-charge access to a virtual Linux server that you can access through your web browser, so you don't need to download and install anything to perform the labs.
 
@@ -46,7 +46,7 @@ You will create simple to more advanced shell scripts that involve Metacharacter
 
 This course is ideal for data engineers, data scientists, software developers, and cloud practitioners who want to get familiar with frequently used commands on Linux, MacOS and other Unix-like operating systems as well as get started with creating shell scripts.
 
-## COURSE 5: Getting Started with Git and GitHub
+## COURSE 05: Getting Started with Git and GitHub
 
 Collaboration and social coding are crucial parts of contemporary Software Engineering practices and the DevOps culture.  In this course, you’ll be introduced to collaborative version control and popular Git platforms.  
 
@@ -56,7 +56,7 @@ Developed and taught by experienced IBM practitioners, in this course you’ll g
 
 All hands-on activities in this course can be performed using web-browser based tools and interfaces. Installation of any specialized software is NOT required on your own computer in order to complete the course.
 
-## COURSE 6: Python for Data Science, AI & Development
+## COURSE 06: Python for Data Science, AI & Development
 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries.
 
@@ -66,7 +66,7 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 
 Upon completion of any of the above programs, in addition to earning a Specialization completion certificate from Coursera, you’ll also receive a digital badge from IBM recognizing your expertise in the field.
 
-## COURSE 7: Python Project for AI & Application Development
+## COURSE 07: Python Project for AI & Application Development
 
 This mini-course is intended to apply foundational Python skills by implementing different techniques to develop applications and AI powered solutions. Assume the role of a developer and unit test and package an application with the help of multiple hands-on labs. After completing this course you will have acquired the confidence to begin developing AI enabled applications using Python, build and run unit tests, and package the application for distribution.
 
@@ -74,7 +74,7 @@ PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM i
 
 NOTE: This course is not intended to teach you Python and does not have too much instructional content. It is intended for you to apply prior Python knowledge.
 
-## COURSE 8: Introduction to Containers w/ Docker, Kubernetes & OpenShift
+## COURSE 08: Introduction to Containers w/ Docker, Kubernetes & OpenShift
 
 With a median salary of $137,000, developers with container skills are in demand. More than 70 percent of Fortune 100 companies are running containerized applications. But why?
 
@@ -89,7 +89,7 @@ such as cloud developer, cloud architect, cloud system engineer, DevOps engineer
 
 Take the next step in your cloud career by learning more about containers!
 
-## COURSE 9: Application Development using Microservices and Serverless
+## COURSE 09: Application Development using Microservices and Serverless
 
 Are you a developer ready to explore serverless application development? This intermediate-level course is for you!
 
