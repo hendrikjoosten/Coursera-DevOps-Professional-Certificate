@@ -111,5 +111,26 @@ Many CI tools are offered as services that you can easily run and scale on the c
 
 
 # github actions
+
 You configure GitHub Actions by creating a .github/workflows folder and placing workflow .yaml files in it, workflow components include events, jobs, runners, steps, and actions, an event is something that activates the execution of a workflow, and a job is a set of steps that use the same runner for execution.
 
+the job component of a GitHub Actions workflow contains runners, services, steps, and actions, a runner is a server that performs a job on a specific operating system or platform, services are defined as Docker containers, steps are tasks comprising one or more shell commands or actions, actions are procedures that can be executed within a step, and the GitHub Actions Marketplace has many prebuilt actions for you to use in your workflows.
+
+runners 
+
+steps
+
+actions
+
+# Continuous Delivery CD
+
+ CI/CD is not one thing, it’s two separate and distinct things that happen after each other, 
+ Continuous Delivery is taking integrated code and deploying it somewhere, 
+ 
+ Continuous Delivery is a software development discipline where you build software in such a way that
+
+  - the software can be released to production at any time, 
+  - the reason you have pull requests and feature branches is so you can ensure code changes work before you merge them back into the main branch, and 
+  - your code will typically need to go through several stages of Quality Assurance and Staging or Testing to ensure that what you deliver to production is bug-free and fit for purpose.
+
+## CD Tools
